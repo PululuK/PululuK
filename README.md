@@ -1,1 +1,3 @@
-![PululuK github stats](https://github-readme-stats.vercel.app/api?username=PululuK&show_icons=true&title_color=45ce30&icon_color=45ce30&bg_color=fbfdfe&text_color=2C3335&cache_seconds=7200&hide=[%22contribs%22])
+### Hi there 🧑🏿‍🦱
+
+![PululuK github stats](https://github-readme-stats.vercel.app/api?username=PululuK&theme=vue-dark&cache_seconds=7200&&show_icons=true)
